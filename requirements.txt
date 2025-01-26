@@ -1,0 +1,7 @@
+aiofiles
+aiohttp
+aiomysql
+asyncio
+googletrans
+gspread
+ujson

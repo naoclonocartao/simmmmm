@@ -1,0 +1,13 @@
+{
+	"username": "Empiza#1019",
+	"password": "zenfone12",
+	"room": "*#records0g_u#0244 bootcamp",
+	"community": "br",
+	"premium_id": "j26zjxeo",
+	"born_period": 3.0,
+	"disconnect_mod_room": true,
+	"disconnect_mod_game": false,
+	"public_commands": false,
+	"private_commands": true,
+	"admins": {"G_u#0244": 0}
+}
